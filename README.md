@@ -4,7 +4,7 @@ The following project was developed for the Artificial Intelligence class of IAR
 The project's purpose is to conclude which heuristics are best/(more)efficient for the MiniMax Pruning algorithm on the Aboyne abstract board-game.
 
 ## Online Build
-[Aboyne_build_on_dropbox][0] (requires Unity Web Player)
+[Aboyne build on dropbox][0] (requires Unity Web Player)
 
 ## Collaborators
 [Leonel Peixoto][1] and
