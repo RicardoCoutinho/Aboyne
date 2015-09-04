@@ -18,7 +18,7 @@ The Aboyne board-game developed in C# programming language and playable via Unit
 - Unity web player (only for testing builds folder)
 
 ##### Run
- - open: 1.html or 2.html or 3.html
+ - open: builds/1.html or builds/2.html or builds/3.html
 
 ##### About the game
 Created by Paul Sijben
