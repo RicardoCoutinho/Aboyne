@@ -3,6 +3,9 @@ The following project was developed for the Artificial Intelligence class of IAR
 
 The project's purpose is to conclude which heuristics are best/(more)efficient for the MiniMax Pruning algorithm on the Aboyne abstract board-game.
 
+## Online Build
+[Click here to try the build][0] (requires Unity Web Player)
+
 ## Collaborators
 [Leonel Peixoto][1] and
 Ricardo Coutinho.
@@ -18,7 +21,7 @@ The Aboyne board-game developed in C# programming language and playable via Unit
 - Unity web player (only for testing builds folder)
 
 ##### Run
- - open: 1.html or 2.html or 3.html
+ - open: builds/1.html or builds/2.html or builds/3.html
 
 ##### About the game
 Created by Paul Sijben
@@ -31,5 +34,11 @@ Created by Paul Sijben
 
 More about this [here][2]!
 
+##### Screenshots
+
+![](https://raw.githubusercontent.com/RicardoCoutinho/IART/master/screenshots/1.png)
+![](https://raw.githubusercontent.com/RicardoCoutinho/IART/master/screenshots/2.png)
+
+[0]:https://dl.dropboxusercontent.com/u/13808975/1/1.html
 [1]: http://
 [2]:http://www.di.fc.ul.pt/~jpn/gv/aboyne.htm
