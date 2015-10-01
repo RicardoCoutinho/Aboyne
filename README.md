@@ -1,4 +1,4 @@
-# IART
+# Aboyne
 The following project was developed for the Artificial Intelligence class of IART in the Faculty of Engineering and University of Porto(FEUP).
 
 The project's purpose is to conclude which heuristics are best/(more)efficient for the MiniMax Pruning algorithm on the Aboyne abstract board-game.
