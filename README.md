@@ -36,7 +36,7 @@ Created by Paul Sijben
 
 More about this [here][2]!
 
-##### Screenshots
+##### Screenshots 
 
 ![](https://raw.githubusercontent.com/RicardoCoutinho/IART/master/screenshots/1.png)
 ![](https://raw.githubusercontent.com/RicardoCoutinho/IART/master/screenshots/2.png)
